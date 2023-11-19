@@ -53,6 +53,6 @@ function sellBooks(title, quantity, balance) {
 
 
 displayBooks();
-addBook(6, "New Book", "Raghad Alahmadi", 108, 10);
+addBook(6, "KillJoy Main", "Raghad Alahmadi", 108, 10);
 searchBook("id", 2);
-sellBooks("Clean Code", 3, 500.0);
+sellBooks("Zero to One", 8, 6969);
